@@ -1,0 +1,6 @@
+﻿:on-start
+Say Player "We're starting."
+
+:on-talk
+Say BigRed "Hello world!"
+Say Player "Oh, hi there!"
